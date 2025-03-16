@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct MenuView: View {
+    
+    var menuItems: [MenuItem] = []
+    
     var body: some View {
         VStack {
             Image(systemName: "globe")
