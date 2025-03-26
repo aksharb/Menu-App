@@ -1,0 +1,2 @@
+- Swift is a programming language by Apple. It is used with [[SwiftUI]] to develop apps for iOS, iPadOS, MacOS, WatchOS, VisionOS and tvOS.
+-

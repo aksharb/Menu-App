@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Menu_AppApp: App {
+struct MenuApp: App {
     var body: some Scene {
         WindowGroup {
             MenuView()
